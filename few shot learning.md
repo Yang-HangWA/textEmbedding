@@ -100,10 +100,8 @@
 
 小样本数据增强方法汇总：
 
-           ![image](https://user-images.githubusercontent.com/38546249/141744570-90e20571-97b0-4a0e-9d08-d6c3c68e6cd0.png)
-
-
-       
+   ![image](https://user-images.githubusercontent.com/38546249/141744745-12fe0180-5c3d-4edd-b9ff-2eda314fcc60.png)
+    
 
            图像领域可以方便地对样本进行变换，如旋转、翻转、裁剪、去色、模糊等等，从而得到对应的增强版本。
 
